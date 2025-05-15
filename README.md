@@ -2,16 +2,16 @@
 
 # 👋 Hi, I'm Phila
 
-🌱 Beginner Software Developer | 🚀 Excited to Learn & Build
+🌱 Beginner Software Developer 
 
 ---
 
 ## 🎯 About Me
 
-- 💡 I'm currently learning **GitHub and version control** before diving into coding.
+- 💡 I am an aspiring software developer currently learning **GitHub and version control** before diving into coding.
 - 🎓 Soon, I'll be exploring **HTML, CSS, and JavaScript**!
-- 🤖 I love problem-solving and working on creative projects.
-- 🔥 Looking forward to building my first real-world application.
+- 🤖 I love learning new developing skills, problem-solving and working on creative projects. I want to be able to solve business challenges through innovative technology.
+- 🔥 Most of all I am looking forward to building my first real-world application.
 
 ---
 
@@ -67,13 +67,13 @@ Here are some of my milestone projects (to be updated as I progress!):
 ## 📫 Connect with Me
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/PhilaMkhungeki)   
-📧 Email: qlpmkhungeki899@gmail.com
+📧 Email: qlpmkhungek0899@gmail.com
 
 ---
 
 ## 🚀 Fun Fact
 
-💡 I love learning new things and can't wait to build my first website!
+💡 I didn't have the smoothet start in tech, I stumbled, restarted, and chose a different path through CodeSpace.
 
 ---
 
